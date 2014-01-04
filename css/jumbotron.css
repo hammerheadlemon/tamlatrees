@@ -29,6 +29,30 @@ h1,
 
 }
 
+@media screen and (min-width: 768px) {
+  .thumbnail-front-box {
+    display: block;
+    padding: 4px;
+    margin-bottom: 20px;
+    line-height: 1.428571429;
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    border-radius: 4px;
+    -webkit-transition: all 0.2s ease-in-out;
+            transition: all 0.2s ease-in-out;
+    height:450px;
+  }
+}
+
+.btn-default-front-box {
+  color: #333333;
+  background-color: #ffffff;
+  border-color: #cccccc;
+  position:absolute;
+  bottom:30px;
+}
+
+
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active,
