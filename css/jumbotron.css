@@ -1,0 +1,51 @@
+.jumbotron {
+    background-image: url("../images/jumbo7.jpg");
+    color: white;
+
+}
+
+.jumbotron .container {
+    max-width: 75%;
+}
+
+.navbar-default .navbar-nav > li > a {
+    font-size: 18px;
+    color: green;
+}
+
+h1,
+.h1 {
+  font-size: 28px;
+}
+
+
+.navbar-default .navbar-brand
+{
+  background: url("../images/EPSLogo500@2x.png") no-repeat left center;
+  background-size: 200px;
+  height: 72px;
+  width: 250px;
+  padding-right: 10px;
+
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary {
+  color: #ffffff;
+  background-color: rgba(23, 71, 16, 0.5);
+  border-color: #285e8e;
+
+
+/*.jumbotron p {
+    color: black;
+    background: rgba(255, 255, 255, 0.6);
+    padding-left: 2px;
+}
+*/
+h2,
+.h2 {
+  font-size: 17px;
+}
