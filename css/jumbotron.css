@@ -4,13 +4,33 @@
 
 }
 
+.navbar-btn {
+  margin-top: 16px;
+  margin-bottom: 8px;
+  border:1px solid transparent;
+}
+
+.panel-default {
+  margin-top: 16px;
+  border:1px solid transparent;
+ /* border-color: #dddddd;*/
+}
+
+.navbar-default {
+  background-color: white;
+  border-color: #e7e7e7;
+}
+
 .jumbotron .container {
     max-width: 75%;
 }
 
 .navbar-default .navbar-nav > li > a {
-    font-size: 18px;
-    color: green;
+    font-size: 20px;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: green;
 }
 
 h1,
