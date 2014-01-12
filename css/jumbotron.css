@@ -16,6 +16,14 @@
  /* border-color: #dddddd;*/
 }
 
+.panel-default-jumbo {
+  margin-top: 16px;
+  background-color: transparent;
+  position:
+  border:1px solid transparent;
+ /* border-color: #dddddd;*/
+}
+
 .navbar-default {
   background-color: white;
   border-color: #e7e7e7;
