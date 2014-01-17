@@ -2339,7 +2339,7 @@ fieldset[disabled] .btn-default:active,
 .btn-default[disabled].active,
 fieldset[disabled] .btn-default.active {
   background-color: #ffffff;
-  border-color: #cccccc;
+   border-color: #cccccc;
 }
 
 .btn-default .badge {

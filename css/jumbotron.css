@@ -1,5 +1,5 @@
 .jumbotron {
-    background-image: url("../images/jumbo7.jpg");
+    background-image: url("../images/jumbo5-2.jpg");
     color: white;
 
 }
@@ -38,7 +38,7 @@
 }
 
 .navbar-default .navbar-nav > li > a {
-  color: green;
+  color: #2F6430;
 }
 
 h1,
@@ -78,6 +78,11 @@ h1,
   border-color: #cccccc;
   position:absolute;
   bottom:30px;
+}
+
+.btn-primary {
+  background-color: #2F6430;
+  border-color: #075E00;
 }
 
 
