@@ -1,5 +1,10 @@
+body {
+  background-image: url("../images/fabric_plaid_2@2X.png");
+  margin: 0;
+}
+
 .jumbotron {
-    background-image: url("../images/jumbo5-2.jpg");
+    background-image: url("../images/jumbo7-1.jpg");
     color: white;
 
 }
@@ -71,6 +76,28 @@ h1,
     height:450px;
   }
 }
+
+.thumbnail-front {
+  display: block;
+  padding: 4px;
+  margin-bottom: 20px;
+  line-height: 1.428571429;
+  background-color: #ffffff;
+  border: 0px solid #dddddd;
+  border-radius: 4px;
+  -webkit-transition: all 0.2s ease-in-out;
+          transition: all 0.2s ease-in-out;
+}
+
+.btn-default-sexed {
+  color: #333333;
+  background-color: #ebebeb;
+  margin-top: 2px;
+  margin-bottom: 2px;
+  border-spacing: 2px;
+  border-color: #2F6430;
+}
+
 
 .btn-default-front-box {
   color: #333333;
