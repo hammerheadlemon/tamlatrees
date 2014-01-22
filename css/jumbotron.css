@@ -104,6 +104,10 @@ h1,
           transition: all 0.2s ease-in-out;
 }
 
+.thumbnail > .btn-primary {
+  margin-bottom: 5px;
+}
+
 .btn-default-sexed {
   color: #333333;
   background-color: #ebebeb;
