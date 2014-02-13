@@ -1,6 +1,6 @@
 body {
-  background-image: url("../images/fabric_plaid_2@2X.png");
   margin: 0;
+  background-image: url("../images/fabric_plaid_2@2X.png");
 }
 
 .page-header {
@@ -35,16 +35,16 @@ body {
 }
 
 .panel-default-jumbo {
-  margin-top: 16px;
-  background-color: transparent;
   position:
   border:1px solid transparent;
+  margin-top: 16px;
+  background-color: transparent;
  /* border-color: #dddddd;*/
 }
 
 .navbar-default {
-  background-color: white;
   border-color: #e7e7e7;
+  background-color: white;
 }
 
 .jumbotron .container {
@@ -67,39 +67,39 @@ h1,
 
 .navbar-default .navbar-brand
 {
+  margin-top: 10px;
+  margin-left:20px;
+  padding-right: 10px;
+  width: 250px;
+  height: 72px;
   background: url("../images/400dpiLogo.jpg") no-repeat left center;
   background-size: 200px;
-  margin-left:20px;
-  height: 72px;
-  width: 250px;
-  margin-top: 10px;
-  padding-right: 10px;
 
 }
 
 @media screen and (min-width: 768px) {
   .thumbnail-front-box {
     display: block;
-    padding: 4px;
     margin-bottom: 20px;
-    line-height: 1.428571429;
-    background-color: #ffffff;
+    padding: 4px;
+    height:450px;
     border: 1px solid #dddddd;
     border-radius: 4px;
+    background-color: #ffffff;
+    line-height: 1.428571429;
     -webkit-transition: all 0.2s ease-in-out;
             transition: all 0.2s ease-in-out;
-    height:450px;
   }
 }
 
 .thumbnail-front {
   display: block;
-  padding: 4px;
   margin-bottom: 20px;
-  line-height: 1.428571429;
-  background-color: #ffffff;
+  padding: 4px;
   border: 0px solid #dddddd;
   border-radius: 4px;
+  background-color: #ffffff;
+  line-height: 1.428571429;
   -webkit-transition: all 0.2s ease-in-out;
           transition: all 0.2s ease-in-out;
 }
@@ -109,26 +109,26 @@ h1,
 }
 
 .btn-default-sexed {
-  color: #333333;
-  background-color: #ebebeb;
   margin-top: 2px;
   margin-bottom: 2px;
   border-spacing: 2px;
   border-color: #2F6430;
+  background-color: #ebebeb;
+  color: #333333;
 }
 
 
 .btn-default-front-box {
-  color: #333333;
-  background-color: #ffffff;
-  border-color: #cccccc;
   position:absolute;
   bottom:30px;
+  border-color: #cccccc;
+  background-color: #ffffff;
+  color: #333333;
 }
 
 .btn-primary {
-  background-color: #2F6430;
   border-color: #075E00;
+  background-color: #2F6430;
 }
 
 
